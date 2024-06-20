@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoveFramesTestEx</string>
+    <string name="remove_advertisement">Remove advertisement</string>
+    <string name="application_logo">Application Logo</string>
+    <string name="go_to_settings_page">Go to Settings Page</string>
+    <string name="filter_icon">Filter Icon</string>
+    <string name="popular_frames">Popular Frames</string>
+</resources>
